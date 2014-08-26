@@ -1,4 +1,4 @@
 public class Teste {
-public static void Main(string[] args){ Console.Write("Hello WOrld"); }
+public static void Main(string[] args){ Console.Write("Hello WOrld"); Console.Write("Hello WOrld");  }
 	
 }
